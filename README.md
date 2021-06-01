@@ -1,9 +1,8 @@
 - 👋 Olá, Eu sou o @LucasGouveiaYY
-- 👀 I’m interested no momento em desenvolvimento front-end mas quero me tornar full-stack
-- 🌱 I’m currently learning  JavaScript
-- 📫 How to reach me : gouveia.linux@gmail.com
+- 👀 Estou interessado no momento em desenvolvimento front-end mas quero me tornar full-stack
+- 🌱 Atualmente, estou aprendendo JavaScript
+- 📫 Como entrar em contato comigo: gouveia.linux@gmail.com
 
-<!---
-LucasGouveiaYY/LucasGouveiaYY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<! ---
+LucasGouveiaYY / LucasGouveiaYY é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece em seu perfil do GitHub.
+Você pode clica
