@@ -3,6 +3,4 @@
 - 🌱 Atualmente, estou aprendendo JavaScript / Python
 - 📫 Como entrar em contato comigo: gouveia.linux@gmail.com
 
-<! ---
-LucasGouveiaYY / LucasGouveiaYY é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece em seu perfil do GitHub.
-Você pode clica
+
